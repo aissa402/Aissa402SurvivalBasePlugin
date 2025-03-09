@@ -1,0 +1,12 @@
+name: aissa402SurvivalBasePlugin
+version: '1.0-SNAPSHOT'
+main: fr.aissa402.aissa402SurvivalBasePlugin.Main
+api-version: '1.21'
+load: STARTUP
+commands:
+  saveloc:
+    description: Save and send your location to the discord server
+  login:
+    description: Login to the server
+  register:
+    description: Register to the server
