@@ -1,8 +1,0 @@
-name: aissa402SaveLoc
-version: '1.0-SNAPSHOT'
-main: fr.aissa402.aissa402SaveLoc.Main
-api-version: '1.21'
-load: STARTUP
-commands:
-  saveloc:
-    description: Save your location
